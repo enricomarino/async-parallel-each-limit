@@ -1,0 +1,13 @@
+{
+  "name": "parallel-each-till",
+  "repo": "component-async/parallel-each-till",
+  "version": "0.2.0",
+  "description": "async parallel each till limit",
+  "keywords": [],
+  "scripts": ["index.js"],
+  "dependencies": {
+  },
+  "development": {
+  },
+  "license": "MIT"
+}
