@@ -1,8 +1,8 @@
 {
-  "name": "parallel-each-till",
-  "repo": "component-async/parallel-each-till",
+  "name": "async-each-limit",
+  "repo": "enricomarino/async-each-limit",
   "version": "0.2.0",
-  "description": "async parallel each till limit",
+  "description": "async each limit",
   "keywords": [],
   "scripts": ["index.js"],
   "dependencies": {
