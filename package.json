@@ -1,16 +1,16 @@
 {
-  "name": "parallel-each-till",
-  "description": "async parallel each till limit",
+  "name": "async-each-limit",
+  "description": "async each limit",
   "version": "0.2.0",
   "author": {
     "name": "Enrico Marino",
     "url": "http://onirame.com"
   },
   "main": "index.js",
-  "homepage": "https://github.com/component-async/parallel-each-till",
+  "homepage": "https://github.com/enricomarino/async-each-limit",
   "repository": {
     "type": "git",
-    "url": "git://github.com/component-async/parallel-each-till.git"
+    "url": "git://github.com/enricomarino/async-each-limit.git"
   },
   "main": "index.js",
   "engines": {
