@@ -1,10 +1,10 @@
-# parallel-each-till
+# async-each-limit
 
-async parallel each till limit
+async each limit
 
 ## Installation
 
-    $ component install component-async/parallel-each-till
+    $ component install enricomarino/async-each-limit
 
 ## License
 
