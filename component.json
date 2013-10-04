@@ -1,8 +1,8 @@
 {
-  "name": "async-each-limit",
-  "repo": "enricomarino/async-each-limit",
+  "name": "async-parallel-each-limit",
+  "repo": "enricomarino/async-parallel-each-limit",
   "version": "0.2.0",
-  "description": "async each limit",
+  "description": "async parallel each limit",
   "keywords": [],
   "scripts": ["index.js"],
   "dependencies": {
